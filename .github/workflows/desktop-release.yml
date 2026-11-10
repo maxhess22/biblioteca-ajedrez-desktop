@@ -3,6 +3,11 @@ name: Compilar App de Escritorio (Desktop)
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
+    paths:
+      - 'src-tauri/**'
+      - '.github/workflows/**'
     tags:
       - 'v*'
 
