@@ -4,6 +4,7 @@ package-lock.json
 
 # Rust / Tauri
 src-tauri/target/
+updater.key*
 
 # OS
 .DS_Store
