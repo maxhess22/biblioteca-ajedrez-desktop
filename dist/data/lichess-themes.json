@@ -1,0 +1,525 @@
+[
+  {
+    "id": "mix",
+    "label": "Varios temas",
+    "group": "Recomendado",
+    "description": "Practica una combinación de motivos, como en una partida.",
+    "symbol": "target"
+  },
+  {
+    "id": "opening",
+    "label": "Apertura",
+    "group": "Fases y finales",
+    "description": "Encuentra la táctica en las primeras jugadas.",
+    "symbol": "book"
+  },
+  {
+    "id": "middlegame",
+    "label": "Medio juego",
+    "group": "Fases y finales",
+    "description": "Coordina tus piezas durante el medio juego.",
+    "symbol": "board"
+  },
+  {
+    "id": "endgame",
+    "label": "Final",
+    "group": "Fases y finales",
+    "description": "Resuelve posiciones con pocas piezas.",
+    "symbol": "board"
+  },
+  {
+    "id": "rookEndgame",
+    "label": "Final de torres",
+    "group": "Fases y finales",
+    "description": "Torres y peones: actividad y precisión.",
+    "symbol": "rook",
+    "aliases": "final torre torres"
+  },
+  {
+    "id": "bishopEndgame",
+    "label": "Final de alfiles",
+    "group": "Fases y finales",
+    "description": "Alfiles y peones sobre el tablero.",
+    "symbol": "board"
+  },
+  {
+    "id": "pawnEndgame",
+    "label": "Final de peones",
+    "group": "Fases y finales",
+    "description": "Calcula las carreras y las casillas clave.",
+    "symbol": "board"
+  },
+  {
+    "id": "knightEndgame",
+    "label": "Final de caballos",
+    "group": "Fases y finales",
+    "description": "Encuentra recursos de caballos y peones.",
+    "symbol": "board"
+  },
+  {
+    "id": "queenEndgame",
+    "label": "Final de damas",
+    "group": "Fases y finales",
+    "description": "Juega con damas y peones.",
+    "symbol": "board"
+  },
+  {
+    "id": "queenRookEndgame",
+    "label": "Final de dama y torre",
+    "group": "Fases y finales",
+    "description": "Coordina dama y torre en el final.",
+    "symbol": "board"
+  },
+  {
+    "id": "advancedPawn",
+    "label": "Peón avanzado",
+    "group": "Motivos tácticos",
+    "description": "Aprovecha un peón cerca de coronar.",
+    "symbol": "swords"
+  },
+  {
+    "id": "attackingF2F7",
+    "label": "Ataque a f2 o f7",
+    "group": "Motivos tácticos",
+    "description": "Busca puntos débiles en f2 y f7.",
+    "symbol": "swords"
+  },
+  {
+    "id": "capturingDefender",
+    "label": "Eliminar al defensor",
+    "group": "Motivos tácticos",
+    "description": "Elimina la pieza que protege el objetivo.",
+    "symbol": "swords"
+  },
+  {
+    "id": "discoveredAttack",
+    "label": "Ataque a la descubierta",
+    "group": "Motivos tácticos",
+    "description": "Mueve una pieza y abre el ataque de otra.",
+    "symbol": "swords"
+  },
+  {
+    "id": "doubleCheck",
+    "label": "Jaque doble",
+    "group": "Motivos tácticos",
+    "description": "Ataca al rey con dos piezas a la vez.",
+    "symbol": "swords"
+  },
+  {
+    "id": "exposedKing",
+    "label": "Rey expuesto",
+    "group": "Motivos tácticos",
+    "description": "Castiga la falta de protección del rey.",
+    "symbol": "swords"
+  },
+  {
+    "id": "fork",
+    "label": "Horquilla",
+    "group": "Motivos tácticos",
+    "description": "Ataca dos objetivos con una sola pieza.",
+    "symbol": "fork",
+    "aliases": "doble ataque tenedor"
+  },
+  {
+    "id": "hangingPiece",
+    "label": "Pieza colgada",
+    "group": "Motivos tácticos",
+    "description": "Encuentra la pieza que quedó indefensa.",
+    "symbol": "swords",
+    "aliases": "pieza indefensa sin defensa"
+  },
+  {
+    "id": "kingsideAttack",
+    "label": "Ataque al enroque",
+    "group": "Motivos tácticos",
+    "description": "Crea amenazas sobre el flanco de rey.",
+    "symbol": "swords"
+  },
+  {
+    "id": "pin",
+    "label": "Clavada",
+    "group": "Motivos tácticos",
+    "description": "Aprovecha una pieza que no puede apartarse.",
+    "symbol": "pin",
+    "aliases": "clavadas"
+  },
+  {
+    "id": "queensideAttack",
+    "label": "Ataque en el flanco de dama",
+    "group": "Motivos tácticos",
+    "description": "Abre líneas sobre el flanco de dama.",
+    "symbol": "swords"
+  },
+  {
+    "id": "sacrifice",
+    "label": "Sacrificio",
+    "group": "Motivos tácticos",
+    "description": "Entrega material para lograr un objetivo.",
+    "symbol": "swords"
+  },
+  {
+    "id": "skewer",
+    "label": "Ensartada",
+    "group": "Motivos tácticos",
+    "description": "Ataca la pieza de delante y gana la de atrás.",
+    "symbol": "swords"
+  },
+  {
+    "id": "trappedPiece",
+    "label": "Pieza atrapada",
+    "group": "Motivos tácticos",
+    "description": "Cierra las rutas de una pieza rival.",
+    "symbol": "swords"
+  },
+  {
+    "id": "attraction",
+    "label": "Atracción",
+    "group": "Táctica avanzada",
+    "description": "Lleva una pieza rival a la casilla que necesitas.",
+    "symbol": "swords"
+  },
+  {
+    "id": "clearance",
+    "label": "Despeje",
+    "group": "Táctica avanzada",
+    "description": "Libera una línea o una casilla útil.",
+    "symbol": "swords"
+  },
+  {
+    "id": "collinearMove",
+    "label": "Jugada colineal",
+    "group": "Táctica avanzada",
+    "description": "Desplázate por la línea que une dos piezas.",
+    "symbol": "swords"
+  },
+  {
+    "id": "discoveredCheck",
+    "label": "Jaque a la descubierta",
+    "group": "Táctica avanzada",
+    "description": "Descubre un jaque con otra pieza.",
+    "symbol": "swords"
+  },
+  {
+    "id": "defensiveMove",
+    "label": "Jugada defensiva",
+    "group": "Táctica avanzada",
+    "description": "Encuentra cómo sostener tu posición.",
+    "symbol": "shield"
+  },
+  {
+    "id": "deflection",
+    "label": "Desviación",
+    "group": "Táctica avanzada",
+    "description": "Aparta una pieza de su tarea defensiva.",
+    "symbol": "swords"
+  },
+  {
+    "id": "interference",
+    "label": "Intercepción",
+    "group": "Táctica avanzada",
+    "description": "Interrumpe la coordinación de las piezas rivales.",
+    "symbol": "swords"
+  },
+  {
+    "id": "intermezzo",
+    "label": "Jugada intermedia",
+    "group": "Táctica avanzada",
+    "description": "Intercala una amenaza antes de la jugada esperada.",
+    "symbol": "swords"
+  },
+  {
+    "id": "quietMove",
+    "label": "Jugada tranquila",
+    "group": "Táctica avanzada",
+    "description": "Prepara la amenaza sin dar jaque ni capturar.",
+    "symbol": "swords"
+  },
+  {
+    "id": "xRayAttack",
+    "label": "Ataque de rayos X",
+    "group": "Táctica avanzada",
+    "description": "Encuentra un ataque a través de otra pieza.",
+    "symbol": "swords"
+  },
+  {
+    "id": "zugzwang",
+    "label": "Zugzwang",
+    "group": "Táctica avanzada",
+    "description": "Deja al rival sin una jugada que le sirva.",
+    "symbol": "swords"
+  },
+  {
+    "id": "mate",
+    "label": "Mate",
+    "group": "Mates",
+    "description": "Encuentra una red de jaque mate.",
+    "symbol": "target"
+  },
+  {
+    "id": "mateIn1",
+    "label": "Mate en 1",
+    "group": "Mates",
+    "description": "Da mate con tu próxima jugada.",
+    "symbol": "target"
+  },
+  {
+    "id": "mateIn2",
+    "label": "Mate en 2",
+    "group": "Mates",
+    "description": "Calcula un mate en dos jugadas.",
+    "symbol": "target"
+  },
+  {
+    "id": "mateIn3",
+    "label": "Mate en 3",
+    "group": "Mates",
+    "description": "Calcula un mate en tres jugadas.",
+    "symbol": "target"
+  },
+  {
+    "id": "mateIn4",
+    "label": "Mate en 4",
+    "group": "Mates",
+    "description": "Calcula un mate en cuatro jugadas.",
+    "symbol": "target"
+  },
+  {
+    "id": "mateIn5",
+    "label": "Mate en 5 o más",
+    "group": "Mates",
+    "description": "Resuelve una secuencia de mate más larga.",
+    "symbol": "target"
+  },
+  {
+    "id": "anastasiaMate",
+    "label": "Mate de Anastasia",
+    "group": "Patrones de mate",
+    "description": "Torre y caballo cierran la salida por la columna.",
+    "symbol": "target"
+  },
+  {
+    "id": "arabianMate",
+    "label": "Mate árabe",
+    "group": "Patrones de mate",
+    "description": "Caballo y torre se apoyan junto a la esquina.",
+    "symbol": "target"
+  },
+  {
+    "id": "backRankMate",
+    "label": "Mate del pasillo",
+    "group": "Patrones de mate",
+    "description": "Aprovecha al rey encerrado detrás de sus peones.",
+    "symbol": "target"
+  },
+  {
+    "id": "balestraMate",
+    "label": "Mate de Balestra",
+    "group": "Patrones de mate",
+    "description": "El alfil remata; la dama controla las salidas.",
+    "symbol": "target"
+  },
+  {
+    "id": "blindSwineMate",
+    "label": "Mate de los cerdos ciegos",
+    "group": "Patrones de mate",
+    "description": "Dos torres construyen una red alrededor del rey.",
+    "symbol": "target"
+  },
+  {
+    "id": "bodenMate",
+    "label": "Mate de Boden",
+    "group": "Patrones de mate",
+    "description": "Cruza las diagonales de tus dos alfiles.",
+    "symbol": "target"
+  },
+  {
+    "id": "cornerMate",
+    "label": "Mate de la esquina",
+    "group": "Patrones de mate",
+    "description": "Un caballo remata al rey en la esquina.",
+    "symbol": "target"
+  },
+  {
+    "id": "doubleBishopMate",
+    "label": "Mate de dos alfiles",
+    "group": "Patrones de mate",
+    "description": "Dos alfiles controlan las casillas vecinas al rey.",
+    "symbol": "target"
+  },
+  {
+    "id": "dovetailMate",
+    "label": "Mate de la cola de paloma",
+    "group": "Patrones de mate",
+    "description": "La dama entra junto al rey con salidas bloqueadas.",
+    "symbol": "target"
+  },
+  {
+    "id": "epauletteMate",
+    "label": "Mate de las charreteras",
+    "group": "Patrones de mate",
+    "description": "Usa las piezas rivales que bloquean al rey.",
+    "symbol": "target"
+  },
+  {
+    "id": "hookMate",
+    "label": "Mate del gancho",
+    "group": "Patrones de mate",
+    "description": "Torre y caballo aprovechan un peón que encierra al rey.",
+    "symbol": "target"
+  },
+  {
+    "id": "killBoxMate",
+    "label": "Mate de la caja",
+    "group": "Patrones de mate",
+    "description": "Dama y torre cercan al rey en pocas casillas.",
+    "symbol": "target"
+  },
+  {
+    "id": "pillsburysMate",
+    "label": "Mate de Pillsbury",
+    "group": "Patrones de mate",
+    "description": "La torre remata con apoyo de un alfil.",
+    "symbol": "target"
+  },
+  {
+    "id": "morphysMate",
+    "label": "Mate de Morphy",
+    "group": "Patrones de mate",
+    "description": "El alfil remata mientras una torre limita al rey.",
+    "symbol": "target"
+  },
+  {
+    "id": "operaMate",
+    "label": "Mate de la ópera",
+    "group": "Patrones de mate",
+    "description": "La torre da mate, protegida por el alfil.",
+    "symbol": "target"
+  },
+  {
+    "id": "swallowstailMate",
+    "label": "Mate de la cola de golondrina",
+    "group": "Patrones de mate",
+    "description": "La dama aprovecha las salidas bloqueadas en diagonal.",
+    "symbol": "target"
+  },
+  {
+    "id": "triangleMate",
+    "label": "Mate del triángulo",
+    "group": "Patrones de mate",
+    "description": "Dama y torre forman el triángulo de ataque.",
+    "symbol": "target"
+  },
+  {
+    "id": "vukovicMate",
+    "label": "Mate de Vuković",
+    "group": "Patrones de mate",
+    "description": "La torre remata y el caballo bloquea una salida.",
+    "symbol": "target"
+  },
+  {
+    "id": "smotheredMate",
+    "label": "Mate de la coz",
+    "group": "Patrones de mate",
+    "description": "El caballo da mate a un rey rodeado de piezas.",
+    "symbol": "target"
+  },
+  {
+    "id": "castling",
+    "label": "Enroque",
+    "group": "Jugadas especiales",
+    "description": "Usa el enroque como recurso táctico.",
+    "symbol": "swords"
+  },
+  {
+    "id": "enPassant",
+    "label": "Captura al paso",
+    "group": "Jugadas especiales",
+    "description": "Reconoce el momento de capturar al paso.",
+    "symbol": "swords"
+  },
+  {
+    "id": "promotion",
+    "label": "Coronación",
+    "group": "Jugadas especiales",
+    "description": "Transforma un peón en una nueva pieza.",
+    "symbol": "swords",
+    "aliases": "promocion peon"
+  },
+  {
+    "id": "underPromotion",
+    "label": "Subpromoción",
+    "group": "Jugadas especiales",
+    "description": "Corona a torre, alfil o caballo.",
+    "symbol": "swords"
+  },
+  {
+    "id": "equality",
+    "label": "Igualdad",
+    "group": "Objetivos",
+    "description": "Encuentra el recurso para equilibrar la posición.",
+    "symbol": "swords"
+  },
+  {
+    "id": "advantage",
+    "label": "Ventaja",
+    "group": "Objetivos",
+    "description": "Consigue una ventaja en la posición.",
+    "symbol": "swords"
+  },
+  {
+    "id": "crushing",
+    "label": "Contundente",
+    "group": "Objetivos",
+    "description": "Aprovecha una oportunidad decisiva.",
+    "symbol": "swords"
+  },
+  {
+    "id": "oneMove",
+    "label": "Una jugada",
+    "group": "Longitud",
+    "description": "Resuelve el problema con una jugada.",
+    "symbol": "swords"
+  },
+  {
+    "id": "short",
+    "label": "Problema corto",
+    "group": "Longitud",
+    "description": "Calcula una línea breve.",
+    "symbol": "swords"
+  },
+  {
+    "id": "long",
+    "label": "Problema largo",
+    "group": "Longitud",
+    "description": "Mantén la precisión en una línea larga.",
+    "symbol": "swords"
+  },
+  {
+    "id": "veryLong",
+    "label": "Problema muy largo",
+    "group": "Longitud",
+    "description": "Calcula una secuencia extensa.",
+    "symbol": "swords"
+  },
+  {
+    "id": "master",
+    "label": "Partidas de maestros",
+    "group": "Origen",
+    "description": "Problemas de partidas de jugadores titulados.",
+    "symbol": "swords"
+  },
+  {
+    "id": "masterVsMaster",
+    "label": "Maestro contra maestro",
+    "group": "Origen",
+    "description": "Táctica de enfrentamientos entre maestros.",
+    "symbol": "swords"
+  },
+  {
+    "id": "superGM",
+    "label": "Partidas de grandes maestros de élite",
+    "group": "Origen",
+    "description": "Posiciones de partidas de la élite.",
+    "symbol": "swords"
+  }
+]

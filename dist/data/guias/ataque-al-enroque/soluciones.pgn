@@ -1,0 +1,119 @@
+[Event "Ejercicio 1 - Lichess m4OC7"]
+[Site "https://lichess.org/training/m4OC7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "1-0"]
+[FEN "1r4k1/pR1q1ppp/2p5/2P5/8/5PP1/P5KP/8 w - - 0 27"]
+[SetUp "1"]
+
+27. Rxb8+ Qc8 28. Rxc8# 1-0
+
+[Event "Ejercicio 2 - Lichess xHJZT"]
+[Site "https://lichess.org/training/xHJZT"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "1-0"]
+[FEN "r1b2rk1/pp2b1pp/1qn1p3/3p2Nn/3p1N2/2PB4/PP3PPP/R1B2RK1 w - - 0 14"]
+[SetUp "1"]
+
+14. Bxh7+ Kh8 15. Ng6# 1-0
+
+[Event "Ejercicio 3 - Lichess kc70E"]
+[Site "https://lichess.org/training/kc70E"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "1-0"]
+[FEN "6qk/1b4rp/4p3/4Q3/4P3/1P6/1Br3PP/5R1K w - - 0 37"]
+[SetUp "1"]
+
+37. Qxg7+ Qxg7 38. Rf8# 1-0
+
+[Event "Ejercicio 4 - Lichess 3ZR9s"]
+[Site "https://lichess.org/training/3ZR9s"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "1-0"]
+[FEN "3r3k/pp3Bbp/1n4p1/4B3/3PR2N/7P/PPr2PPK/8 w - - 3 31"]
+[SetUp "1"]
+
+31. Nxg6+ hxg6 32. Rh4# 1-0
+
+[Event "Ejercicio 5 - Lichess 5JaYL"]
+[Site "https://lichess.org/training/5JaYL"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "1-0"]
+[FEN "r5rk/pq1n1p1p/1p2pPpQ/2p5/3P4/5R2/PPP3PP/R5K1 w - - 6 21"]
+[SetUp "1"]
+
+21. Qxh7+ Kxh7 22. Rh3# 1-0
+
+[Event "Ejercicio 6 - Lichess GEstF"]
+[Site "https://lichess.org/training/GEstF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "0-1"]
+[FEN "4r1k1/1pp2bpp/5b2/2PB1Q2/p7/PN5P/1q3PPB/2R3K1 b - - 0 25"]
+[SetUp "1"]
+
+25... Qxc1+ 26. Nxc1 Re1# 0-1
+
+[Event "Ejercicio 7 - Lichess y3mLt"]
+[Site "https://lichess.org/training/y3mLt"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "0-1"]
+[FEN "2kr3r/1p1n1pp1/B3p1p1/3pP3/Q2P4/2P1q3/P5PP/R4R1K b - - 0 18"]
+[SetUp "1"]
+
+18... Rxh2+ 19. Kxh2 Rh8# 0-1
+
+[Event "Ejercicio 8 - Lichess RMkti"]
+[Site "https://lichess.org/training/RMkti"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "0-1"]
+[FEN "8/6bk/1q4pp/4p3/4Q3/6Pn/P5BP/5R1K b - - 0 37"]
+[SetUp "1"]
+
+37... Qg1+ 38. Rxg1 Nf2# 0-1
+
+[Event "Ejercicio 9 - Lichess pi9tb"]
+[Site "https://lichess.org/training/pi9tb"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "1-0"]
+[FEN "3r1r1k/pR4p1/2n2N1p/2b4b/2B1p3/q4N1P/5PP1/2Q2RK1 w - - 4 21"]
+[SetUp "1"]
+
+21. Qxh6+ gxh6 22. Rh7# 1-0
+
+[Event "Ejercicio 10 - Lichess Jgeir"]
+[Site "https://lichess.org/training/Jgeir"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blancas"]
+[Black "Negras"]
+[Result "1-0"]
+[FEN "5r1k/pp2Nrpp/2p5/8/3nR2Q/3q1p2/6PP/4R2K w - - 0 33"]
+[SetUp "1"]
+
+33. Qxh7+ Kxh7 34. Rh4# 1-0

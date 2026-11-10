@@ -1,0 +1,331 @@
+{
+  "consultedAt": "2026-11-02",
+  "license": "CC0",
+  "positions": [
+    {
+      "theme": "attackingF2F7",
+      "title": "Ataque a f2 o f7",
+      "chapter": "ataque-a-f2-o-f7",
+      "id": "tNXtT",
+      "fen": "r2qkb1r/1p3ppp/p4n2/2p1N3/2Bp4/6N1/PPPP2PP/R1Bb1RK1 w kq - 0 13",
+      "moves": [
+        "c4f7",
+        "e8e7",
+        "g3f5"
+      ],
+      "source": "https://lichess.org/training/tNXtT"
+    },
+    {
+      "theme": "queensideAttack",
+      "title": "Ataque al flanco de dama",
+      "chapter": "ataque-al-flanco-de-dama",
+      "id": "ucrxF",
+      "fen": "1r6/4kp2/p4p1p/2b1p3/8/2qQ4/PP1RRPPP/1K6 b - - 9 31",
+      "moves": [
+        "b8b2",
+        "d2b2",
+        "c3d3"
+      ],
+      "source": "https://lichess.org/training/ucrxF"
+    },
+    {
+      "theme": "kingsideAttack",
+      "title": "Ataque al flanco de rey",
+      "chapter": "ataque-al-flanco-de-rey",
+      "id": "xHJZT",
+      "fen": "r1b2rk1/pp2b1pp/1qn1p3/3p2Nn/3p1N2/2PB4/PP3PPP/R1B2RK1 w - - 0 14",
+      "moves": [
+        "d3h7",
+        "g8h8",
+        "f4g6"
+      ],
+      "source": "https://lichess.org/training/xHJZT"
+    },
+    {
+      "theme": "xRayAttack",
+      "title": "Ataque de rayos X",
+      "chapter": "ataque-de-rayos-x",
+      "id": "uacnh",
+      "fen": "8/8/6R1/4p2p/6rk/8/6PK/8 w - - 3 68",
+      "moves": [
+        "g2g3",
+        "g4g3",
+        "g6g3"
+      ],
+      "source": "https://lichess.org/training/uacnh"
+    },
+    {
+      "theme": "discoveredAttack",
+      "title": "Ataque descubierto",
+      "chapter": "ataque-descubierto",
+      "id": "82815",
+      "fen": "8/8/8/3p1k2/4pr2/4KP2/8/5R2 w - - 0 56",
+      "moves": [
+        "f3e4",
+        "d5e4",
+        "f1f4"
+      ],
+      "source": "https://lichess.org/training/82815"
+    },
+    {
+      "theme": "fork",
+      "title": "Ataque doble u horquilla",
+      "chapter": "ataque-doble-u-horquilla",
+      "id": "Gt14B",
+      "fen": "3b4/8/8/7K/3k1N1p/7P/8/8 w - - 6 66",
+      "moves": [
+        "f4e6",
+        "d4d5",
+        "e6d8"
+      ],
+      "source": "https://lichess.org/training/Gt14B"
+    },
+    {
+      "theme": "attraction",
+      "title": "Atracción",
+      "chapter": "atraccion",
+      "id": "8rtlX",
+      "fen": "8/8/p7/6kp/4q1n1/8/6Q1/5R1K b - - 6 43",
+      "moves": [
+        "e4g2",
+        "h1g2",
+        "g4e3",
+        "g2g1",
+        "e3f1"
+      ],
+      "source": "https://lichess.org/training/8rtlX"
+    },
+    {
+      "theme": "capturingDefender",
+      "title": "Capturar al defensor",
+      "chapter": "capturar-al-defensor",
+      "id": "wcYEB",
+      "fen": "6k1/8/4PRK1/6P1/6P1/8/1b2r3/8 b - - 0 73",
+      "moves": [
+        "b2f6",
+        "g5f6",
+        "e2e6"
+      ],
+      "source": "https://lichess.org/training/wcYEB"
+    },
+    {
+      "theme": "pin",
+      "title": "Clavada",
+      "chapter": "clavada",
+      "id": "W686W",
+      "fen": "rnb2rqk/pp4pp/8/2b1N1nQ/3p1B2/6P1/PP5P/R4R1K w - - 0 19",
+      "moves": [
+        "e5g6"
+      ],
+      "source": "https://lichess.org/training/W686W"
+    },
+    {
+      "theme": "clearance",
+      "title": "Despeje",
+      "chapter": "despeje",
+      "id": "9ncjy",
+      "fen": "r1b1k2r/1q3pp1/p1N2b1p/1pnN4/4pPP1/5Q2/PPP4P/2KR3R w kq - 0 18",
+      "moves": [
+        "d5f6",
+        "g7f6",
+        "d1d8"
+      ],
+      "source": "https://lichess.org/training/9ncjy"
+    },
+    {
+      "theme": "deflection",
+      "title": "Desviación",
+      "chapter": "desviacion",
+      "id": "cZjMw",
+      "fen": "8/3r4/8/2p1kp2/1pP2R2/1P1PK3/1P6/8 b - - 5 57",
+      "moves": [
+        "d7d3",
+        "e3d3",
+        "e5f4"
+      ],
+      "source": "https://lichess.org/training/cZjMw"
+    },
+    {
+      "theme": "interference",
+      "title": "Interferencia",
+      "chapter": "interferencia",
+      "id": "6jQJL",
+      "fen": "r5r1/pp1qkpQp/3bp3/3n4/P7/4B2P/1P3PP1/R4RK1 w - - 1 21",
+      "moves": [
+        "e3g5",
+        "e7e8",
+        "g7g8"
+      ],
+      "source": "https://lichess.org/training/6jQJL"
+    },
+    {
+      "theme": "discoveredCheck",
+      "title": "Jaque descubierto",
+      "chapter": "jaque-descubierto",
+      "id": "rw7DL",
+      "fen": "8/1pp2B2/p2rP2p/6b1/4K1P1/8/k7/8 w - - 0 41",
+      "moves": [
+        "e6e7",
+        "a2a3",
+        "e7e8q"
+      ],
+      "source": "https://lichess.org/training/rw7DL"
+    },
+    {
+      "theme": "doubleCheck",
+      "title": "Jaque doble",
+      "chapter": "jaque-doble",
+      "id": "mZbNa",
+      "fen": "7k/2pq2b1/1p1p1rQN/p2Pp3/2P5/P2N1rP1/1P4K1/7R w - - 3 34",
+      "moves": [
+        "h6f7",
+        "h8g8",
+        "h1h8"
+      ],
+      "source": "https://lichess.org/training/mZbNa"
+    },
+    {
+      "theme": "defensiveMove",
+      "title": "Jugada defensiva",
+      "chapter": "jugada-defensiva",
+      "id": "hiFEx",
+      "fen": "2K2q1k/3R2p1/2P5/8/7P/8/8/8 w - - 8 87",
+      "moves": [
+        "d7d8",
+        "f8d8",
+        "c8d8"
+      ],
+      "source": "https://lichess.org/training/hiFEx"
+    },
+    {
+      "theme": "intermezzo",
+      "title": "Jugada intermedia",
+      "chapter": "jugada-intermedia",
+      "id": "1qoZq",
+      "fen": "8/4k3/3p1b2/4PPp1/2B3p1/3K3P/8/8 w - - 0 50",
+      "moves": [
+        "e5f6",
+        "e7f6",
+        "h3g4"
+      ],
+      "source": "https://lichess.org/training/1qoZq"
+    },
+    {
+      "theme": "quietMove",
+      "title": "Jugada tranquila",
+      "chapter": "jugada-tranquila",
+      "id": "RrZMk",
+      "fen": "4k3/4npK1/4p3/5pP1/3P4/4P3/5P1P/8 w - - 1 36",
+      "moves": [
+        "h2h4",
+        "e7g6",
+        "h4h5"
+      ],
+      "source": "https://lichess.org/training/RrZMk"
+    },
+    {
+      "theme": "collinearMove",
+      "title": "Movimiento colineal",
+      "chapter": "movimiento-colineal",
+      "id": "NuOHI",
+      "fen": "2k4r/pp6/2pppp1r/8/3PPPp1/6p1/PPP1N1K1/R6R b - - 1 23",
+      "moves": [
+        "h6h2",
+        "h1h2",
+        "h8h2",
+        "g2g3",
+        "h2e2"
+      ],
+      "source": "https://lichess.org/training/NuOHI"
+    },
+    {
+      "theme": "advancedPawn",
+      "title": "Peón avanzado",
+      "chapter": "peon-avanzado",
+      "id": "beWOP",
+      "fen": "5k2/7P/5K1b/5P2/8/8/8/8 w - - 1 64",
+      "moves": [
+        "h7h8q"
+      ],
+      "source": "https://lichess.org/training/beWOP"
+    },
+    {
+      "theme": "trappedPiece",
+      "title": "Pieza atrapada",
+      "chapter": "pieza-atrapada",
+      "id": "bBEcG",
+      "fen": "6k1/6p1/8/5K1p/7n/8/5R2/8 w - - 0 62",
+      "moves": [
+        "f5g5",
+        "g8h7",
+        "g5h4"
+      ],
+      "source": "https://lichess.org/training/bBEcG"
+    },
+    {
+      "theme": "hangingPiece",
+      "title": "Pieza colgada",
+      "chapter": "pieza-colgada",
+      "id": "jFGBa",
+      "fen": "6k1/R4N2/1p4p1/4npP1/P7/4K3/1P6/2r5 w - - 2 41",
+      "moves": [
+        "f7e5"
+      ],
+      "source": "https://lichess.org/training/jFGBa"
+    },
+    {
+      "theme": "skewer",
+      "title": "Pincho o ensartada",
+      "chapter": "pincho-o-ensartada",
+      "id": "kIJec",
+      "fen": "8/1p6/p1p5/P4p2/1r3k2/7R/7K/8 w - - 0 59",
+      "moves": [
+        "h3h4",
+        "f4e5",
+        "h4b4"
+      ],
+      "source": "https://lichess.org/training/kIJec"
+    },
+    {
+      "theme": "exposedKing",
+      "title": "Rey expuesto",
+      "chapter": "rey-expuesto",
+      "id": "8rtlX",
+      "fen": "8/8/p7/6kp/4q1n1/8/6Q1/5R1K b - - 6 43",
+      "moves": [
+        "e4g2",
+        "h1g2",
+        "g4e3",
+        "g2g1",
+        "e3f1"
+      ],
+      "source": "https://lichess.org/training/8rtlX"
+    },
+    {
+      "theme": "sacrifice",
+      "title": "Sacrificio",
+      "chapter": "sacrificio",
+      "id": "7TYOm",
+      "fen": "4r3/pp3p1k/5Bpp/3p1b2/3R3Q/2P2P1P/4q1P1/6K1 w - - 1 32",
+      "moves": [
+        "h4h6",
+        "h7h6",
+        "d4h4"
+      ],
+      "source": "https://lichess.org/training/7TYOm"
+    },
+    {
+      "theme": "zugzwang",
+      "title": "Zugzwang",
+      "chapter": "zugzwang",
+      "id": "XLeI3",
+      "fen": "8/5p2/6k1/2p1Pp1p/1p2K2P/1P6/P7/8 w - - 0 38",
+      "moves": [
+        "e4f4",
+        "g6h6",
+        "f4f5"
+      ],
+      "source": "https://lichess.org/training/XLeI3"
+    }
+  ]
+}

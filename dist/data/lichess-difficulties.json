@@ -1,0 +1,7 @@
+[
+  {"value":"easiest","label":"≈ 900 · Muy fácil"},
+  {"value":"easier","label":"≈ 1200 · Fácil"},
+  {"value":"normal","label":"≈ 1500 · Normal"},
+  {"value":"harder","label":"≈ 1800 · Difícil"},
+  {"value":"hardest","label":"≈ 2100 · Muy difícil"}
+]

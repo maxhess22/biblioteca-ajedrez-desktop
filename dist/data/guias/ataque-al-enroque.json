@@ -1,0 +1,87 @@
+{
+  "titulo": "Ataque al enroque",
+  "guia": "/guias/ataque-al-enroque/",
+  "grupos": [
+    {
+      "id": "progresion",
+      "titulo": "Diez mates en dificultad ascendente",
+      "desc": "Diez mates en dos, ordenados por rating de referencia. Calcula la defensa y explica qué ha cambiado antes del remate. Al terminar, la serie vuelve a empezar.",
+      "capitulo": "/guias/ataque-al-enroque/06-diez-ejercicios/",
+      "ordenados": true,
+      "problemas": [
+        [
+          "m4OC7",
+          1191,
+          "1r2q1k1/pR1Q1ppp/2p5/2P5/8/5PP1/P5KP/8 b - - 2 26",
+          "e8d7 b7b8 d7c8 b8c8",
+          "backRankMate endgame hangingPiece master mate mateIn2 queenRookEndgame short"
+        ],
+        [
+          "xHJZT",
+          1238,
+          "r1b2rk1/pp2b1pp/1qn1pn2/3p2NQ/3p1N2/2PB4/PP3PPP/R1B2RK1 b - - 1 13",
+          "f6h5 d3h7 g8h8 f4g6",
+          "kingsideAttack master mate mateIn2 opening short"
+        ],
+        [
+          "kc70E",
+          1351,
+          "2r3qk/1b4rp/4p3/4Q3/4P3/1P6/1BP3PP/5R1K b - - 4 36",
+          "c8c2 e5g7 g8g7 f1f8",
+          "fork master mate mateIn2 middlegame pin sacrifice short"
+        ],
+        [
+          "3ZR9s",
+          1360,
+          "2rr3k/pp3Bbp/1n4p1/4B3/3PR2N/7P/PP3PPK/8 b - - 2 30",
+          "c8c2 h4g6 h7g6 e4h4",
+          "clearance kingsideAttack master mate mateIn2 middlegame pillsburysMate sacrifice short"
+        ],
+        [
+          "5JaYL",
+          1365,
+          "rn4rk/pq3p1p/1p2pPpQ/2p5/3P4/5R2/PPP3PP/R5K1 b - - 5 20",
+          "b8d7 h6h7 h8h7 f3h3",
+          "attraction kingsideAttack master mate mateIn2 middlegame sacrifice short"
+        ],
+        [
+          "GEstF",
+          1418,
+          "4r1k1/1pp2bpp/5b2/2Pn1Q2/p1B5/PN5P/1q3PPB/2R3K1 w - - 0 25",
+          "c4d5 b2c1 b3c1 e8e1",
+          "backRankMate master mate mateIn2 middlegame sacrifice short"
+        ],
+        [
+          "y3mLt",
+          1441,
+          "2kr3r/1p1n1pp1/p3p1p1/1B1pP3/Q2P4/2P1q3/P5PP/R4R1K w - - 2 18",
+          "b5a6 h8h2 h1h2 d8h8",
+          "attraction kingsideAttack master mate mateIn2 middlegame sacrifice short"
+        ],
+        [
+          "RMkti",
+          1464,
+          "8/6bk/1q4pp/4p3/4b3/5QPn/P5BP/5R1K w - - 0 37",
+          "f3e4 b6g1 f1g1 h3f2",
+          "endgame master mate mateIn2 sacrifice short smotheredMate"
+        ],
+        [
+          "pi9tb",
+          1539,
+          "3r1rk1/pR4p1/2n2N1p/2b4b/2B1p3/q4N1P/5PP1/2Q2RK1 b - - 3 20",
+          "g8h8 c1h6 g7h6 b7h7",
+          "arabianMate kingsideAttack master mate mateIn2 middlegame sacrifice short"
+        ],
+        [
+          "Jgeir",
+          1561,
+          "5r1k/pp2Nrpp/2p5/8/3nRp1Q/3q4/6PP/4R2K b - - 1 32",
+          "f4f3 h4h7 h8h7 e4h4",
+          "anastasiaMate attraction master masterVsMaster mate mateIn2 middlegame sacrifice short superGM"
+        ]
+      ]
+    }
+  ],
+  "partidas": [],
+  "fechaReferencia": "2026-10-27"
+}

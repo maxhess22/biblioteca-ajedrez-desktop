@@ -1,0 +1,2519 @@
+{
+  "sourceSha256": "cff50be32a9fd0284bac876190519b06039df2c6d14dbda048aebdb2443afdd0",
+  "pages": [
+    {
+      "pdfPage": 8,
+      "printedPage": 9,
+      "chapter": "00-introduccion",
+      "ocrLines": 36,
+      "textLines": 34,
+      "diagrams": 0,
+      "textCharacters": 2532
+    },
+    {
+      "pdfPage": 9,
+      "printedPage": 10,
+      "chapter": "00-introduccion",
+      "ocrLines": 43,
+      "textLines": 41,
+      "diagrams": 0,
+      "textCharacters": 3399
+    },
+    {
+      "pdfPage": 10,
+      "printedPage": 11,
+      "chapter": "00-introduccion",
+      "ocrLines": 78,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 3207
+    },
+    {
+      "pdfPage": 11,
+      "printedPage": 12,
+      "chapter": "00-introduccion",
+      "ocrLines": 82,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 3475
+    },
+    {
+      "pdfPage": 12,
+      "printedPage": 13,
+      "chapter": "00-introduccion",
+      "ocrLines": 72,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 3064
+    },
+    {
+      "pdfPage": 13,
+      "printedPage": 14,
+      "chapter": "00-introduccion",
+      "ocrLines": 75,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 3316
+    },
+    {
+      "pdfPage": 14,
+      "printedPage": 15,
+      "chapter": "00-introduccion",
+      "ocrLines": 72,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 4197
+    },
+    {
+      "pdfPage": 15,
+      "printedPage": 16,
+      "chapter": "00-introduccion",
+      "ocrLines": 63,
+      "textLines": 59,
+      "diagrams": 2,
+      "textCharacters": 3920
+    },
+    {
+      "pdfPage": 16,
+      "printedPage": 17,
+      "chapter": "00-introduccion",
+      "ocrLines": 80,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 3102
+    },
+    {
+      "pdfPage": 17,
+      "printedPage": 18,
+      "chapter": "00-introduccion",
+      "ocrLines": 83,
+      "textLines": 79,
+      "diagrams": 1,
+      "textCharacters": 4187
+    },
+    {
+      "pdfPage": 18,
+      "printedPage": 19,
+      "chapter": "00-introduccion",
+      "ocrLines": 54,
+      "textLines": 42,
+      "diagrams": 4,
+      "textCharacters": 3388
+    },
+    {
+      "pdfPage": 19,
+      "printedPage": 20,
+      "chapter": "00-introduccion",
+      "ocrLines": 78,
+      "textLines": 75,
+      "diagrams": 1,
+      "textCharacters": 4208
+    },
+    {
+      "pdfPage": 20,
+      "printedPage": 21,
+      "chapter": "00-introduccion",
+      "ocrLines": 74,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3825
+    },
+    {
+      "pdfPage": 21,
+      "printedPage": 22,
+      "chapter": "00-introduccion",
+      "ocrLines": 84,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 3255
+    },
+    {
+      "pdfPage": 22,
+      "printedPage": 23,
+      "chapter": "00-introduccion",
+      "ocrLines": 84,
+      "textLines": 80,
+      "diagrams": 1,
+      "textCharacters": 3422
+    },
+    {
+      "pdfPage": 23,
+      "printedPage": 24,
+      "chapter": "00-introduccion",
+      "ocrLines": 72,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 2791
+    },
+    {
+      "pdfPage": 24,
+      "printedPage": 25,
+      "chapter": "00-introduccion",
+      "ocrLines": 64,
+      "textLines": 53,
+      "diagrams": 3,
+      "textCharacters": 2418
+    },
+    {
+      "pdfPage": 25,
+      "printedPage": 26,
+      "chapter": "00-introduccion",
+      "ocrLines": 20,
+      "textLines": 17,
+      "diagrams": 1,
+      "textCharacters": 737
+    },
+    {
+      "pdfPage": 27,
+      "printedPage": 28,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 50,
+      "textLines": 32,
+      "diagrams": 8,
+      "textCharacters": 682
+    },
+    {
+      "pdfPage": 28,
+      "printedPage": 29,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 87,
+      "textLines": 85,
+      "diagrams": 0,
+      "textCharacters": 3835
+    },
+    {
+      "pdfPage": 29,
+      "printedPage": 30,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 70,
+      "textLines": 63,
+      "diagrams": 2,
+      "textCharacters": 2969
+    },
+    {
+      "pdfPage": 30,
+      "printedPage": 31,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 70,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3860
+    },
+    {
+      "pdfPage": 31,
+      "printedPage": 32,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 68,
+      "textLines": 61,
+      "diagrams": 2,
+      "textCharacters": 2889
+    },
+    {
+      "pdfPage": 32,
+      "printedPage": 33,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 81,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 3852
+    },
+    {
+      "pdfPage": 33,
+      "printedPage": 34,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 69,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3113
+    },
+    {
+      "pdfPage": 34,
+      "printedPage": 35,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 80,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 4066
+    },
+    {
+      "pdfPage": 35,
+      "printedPage": 36,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 69,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 2954
+    },
+    {
+      "pdfPage": 36,
+      "printedPage": 37,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 67,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3225
+    },
+    {
+      "pdfPage": 37,
+      "printedPage": 38,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 74,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3499
+    },
+    {
+      "pdfPage": 38,
+      "printedPage": 39,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 79,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 3837
+    },
+    {
+      "pdfPage": 39,
+      "printedPage": 40,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 72,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 3279
+    },
+    {
+      "pdfPage": 40,
+      "printedPage": 41,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 80,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 3756
+    },
+    {
+      "pdfPage": 41,
+      "printedPage": 42,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 65,
+      "textLines": 59,
+      "diagrams": 3,
+      "textCharacters": 2942
+    },
+    {
+      "pdfPage": 42,
+      "printedPage": 43,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 60,
+      "textLines": 56,
+      "diagrams": 3,
+      "textCharacters": 2882
+    },
+    {
+      "pdfPage": 43,
+      "printedPage": 44,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 60,
+      "textLines": 51,
+      "diagrams": 2,
+      "textCharacters": 2500
+    },
+    {
+      "pdfPage": 44,
+      "printedPage": 45,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 69,
+      "textLines": 63,
+      "diagrams": 2,
+      "textCharacters": 3943
+    },
+    {
+      "pdfPage": 45,
+      "printedPage": 46,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 83,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 4064
+    },
+    {
+      "pdfPage": 46,
+      "printedPage": 47,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 52,
+      "textLines": 44,
+      "diagrams": 4,
+      "textCharacters": 2367
+    },
+    {
+      "pdfPage": 47,
+      "printedPage": 48,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 72,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3379
+    },
+    {
+      "pdfPage": 48,
+      "printedPage": 49,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 68,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 3997
+    },
+    {
+      "pdfPage": 49,
+      "printedPage": 50,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 69,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 4037
+    },
+    {
+      "pdfPage": 50,
+      "printedPage": 51,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 61,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 3093
+    },
+    {
+      "pdfPage": 51,
+      "printedPage": 52,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 72,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 3735
+    },
+    {
+      "pdfPage": 52,
+      "printedPage": 53,
+      "chapter": "01-coordinar-las-piezas",
+      "ocrLines": 38,
+      "textLines": 35,
+      "diagrams": 2,
+      "textCharacters": 2342
+    },
+    {
+      "pdfPage": 54,
+      "printedPage": 56,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 48,
+      "textLines": 34,
+      "diagrams": 8,
+      "textCharacters": 717
+    },
+    {
+      "pdfPage": 55,
+      "printedPage": 57,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 81,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 3458
+    },
+    {
+      "pdfPage": 56,
+      "printedPage": 58,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 81,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 4015
+    },
+    {
+      "pdfPage": 57,
+      "printedPage": 59,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 81,
+      "textLines": 75,
+      "diagrams": 1,
+      "textCharacters": 4073
+    },
+    {
+      "pdfPage": 58,
+      "printedPage": 60,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 71,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3297
+    },
+    {
+      "pdfPage": 59,
+      "printedPage": 61,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 81,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 4246
+    },
+    {
+      "pdfPage": 60,
+      "printedPage": 62,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 62,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 3009
+    },
+    {
+      "pdfPage": 61,
+      "printedPage": 63,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 80,
+      "textLines": 75,
+      "diagrams": 1,
+      "textCharacters": 4366
+    },
+    {
+      "pdfPage": 62,
+      "printedPage": 64,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 73,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3491
+    },
+    {
+      "pdfPage": 63,
+      "printedPage": 65,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 76,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 4126
+    },
+    {
+      "pdfPage": 64,
+      "printedPage": 66,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 72,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3275
+    },
+    {
+      "pdfPage": 65,
+      "printedPage": 67,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 79,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 3766
+    },
+    {
+      "pdfPage": 66,
+      "printedPage": 68,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 71,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3879
+    },
+    {
+      "pdfPage": 67,
+      "printedPage": 69,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 71,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3812
+    },
+    {
+      "pdfPage": 68,
+      "printedPage": 70,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 78,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 4379
+    },
+    {
+      "pdfPage": 69,
+      "printedPage": 71,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 69,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3455
+    },
+    {
+      "pdfPage": 70,
+      "printedPage": 72,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 77,
+      "textLines": 73,
+      "diagrams": 1,
+      "textCharacters": 3879
+    },
+    {
+      "pdfPage": 71,
+      "printedPage": 73,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 63,
+      "textLines": 54,
+      "diagrams": 3,
+      "textCharacters": 2719
+    },
+    {
+      "pdfPage": 72,
+      "printedPage": 74,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 73,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3806
+    },
+    {
+      "pdfPage": 73,
+      "printedPage": 75,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 65,
+      "textLines": 61,
+      "diagrams": 2,
+      "textCharacters": 3279
+    },
+    {
+      "pdfPage": 74,
+      "printedPage": 76,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 75,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 4408
+    },
+    {
+      "pdfPage": 75,
+      "printedPage": 77,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 66,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 4192
+    },
+    {
+      "pdfPage": 76,
+      "printedPage": 78,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 80,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 3720
+    },
+    {
+      "pdfPage": 77,
+      "printedPage": 79,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 74,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3069
+    },
+    {
+      "pdfPage": 78,
+      "printedPage": 80,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 59,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 3027
+    },
+    {
+      "pdfPage": 79,
+      "printedPage": 81,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 78,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 4413
+    },
+    {
+      "pdfPage": 80,
+      "printedPage": 82,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 73,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3309
+    },
+    {
+      "pdfPage": 81,
+      "printedPage": 83,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 62,
+      "textLines": 45,
+      "diagrams": 4,
+      "textCharacters": 2951
+    },
+    {
+      "pdfPage": 82,
+      "printedPage": 84,
+      "chapter": "02-mantener-el-ritmo",
+      "ocrLines": 34,
+      "textLines": 31,
+      "diagrams": 1,
+      "textCharacters": 1535
+    },
+    {
+      "pdfPage": 84,
+      "printedPage": 86,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 48,
+      "textLines": 32,
+      "diagrams": 8,
+      "textCharacters": 706
+    },
+    {
+      "pdfPage": 85,
+      "printedPage": 87,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 80,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 3361
+    },
+    {
+      "pdfPage": 86,
+      "printedPage": 88,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 70,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 3828
+    },
+    {
+      "pdfPage": 87,
+      "printedPage": 89,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 70,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3605
+    },
+    {
+      "pdfPage": 88,
+      "printedPage": 90,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 77,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 3531
+    },
+    {
+      "pdfPage": 89,
+      "printedPage": 91,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 72,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3148
+    },
+    {
+      "pdfPage": 90,
+      "printedPage": 92,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 75,
+      "textLines": 69,
+      "diagrams": 1,
+      "textCharacters": 3763
+    },
+    {
+      "pdfPage": 91,
+      "printedPage": 93,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 72,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 4409
+    },
+    {
+      "pdfPage": 92,
+      "printedPage": 94,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 72,
+      "textLines": 67,
+      "diagrams": 1,
+      "textCharacters": 3536
+    },
+    {
+      "pdfPage": 93,
+      "printedPage": 95,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 74,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3090
+    },
+    {
+      "pdfPage": 94,
+      "printedPage": 96,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 82,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 4408
+    },
+    {
+      "pdfPage": 95,
+      "printedPage": 97,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 69,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3010
+    },
+    {
+      "pdfPage": 96,
+      "printedPage": 98,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 70,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 3627
+    },
+    {
+      "pdfPage": 97,
+      "printedPage": 99,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 72,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3305
+    },
+    {
+      "pdfPage": 98,
+      "printedPage": 100,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 72,
+      "textLines": 68,
+      "diagrams": 1,
+      "textCharacters": 3348
+    },
+    {
+      "pdfPage": 99,
+      "printedPage": 101,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 74,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4186
+    },
+    {
+      "pdfPage": 100,
+      "printedPage": 102,
+      "chapter": "03-atacar-por-un-color",
+      "ocrLines": 41,
+      "textLines": 39,
+      "diagrams": 1,
+      "textCharacters": 2559
+    },
+    {
+      "pdfPage": 102,
+      "printedPage": 104,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 55,
+      "textLines": 31,
+      "diagrams": 8,
+      "textCharacters": 658
+    },
+    {
+      "pdfPage": 103,
+      "printedPage": 105,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 93,
+      "textLines": 91,
+      "diagrams": 0,
+      "textCharacters": 3991
+    },
+    {
+      "pdfPage": 104,
+      "printedPage": 106,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 71,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 4070
+    },
+    {
+      "pdfPage": 105,
+      "printedPage": 107,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 77,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3034
+    },
+    {
+      "pdfPage": 106,
+      "printedPage": 108,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 75,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4725
+    },
+    {
+      "pdfPage": 107,
+      "printedPage": 109,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 76,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 4557
+    },
+    {
+      "pdfPage": 108,
+      "printedPage": 110,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 76,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3699
+    },
+    {
+      "pdfPage": 109,
+      "printedPage": 111,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 67,
+      "textLines": 61,
+      "diagrams": 2,
+      "textCharacters": 2827
+    },
+    {
+      "pdfPage": 110,
+      "printedPage": 112,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 69,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 2749
+    },
+    {
+      "pdfPage": 111,
+      "printedPage": 113,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 75,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 3403
+    },
+    {
+      "pdfPage": 112,
+      "printedPage": 114,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 69,
+      "textLines": 63,
+      "diagrams": 2,
+      "textCharacters": 3111
+    },
+    {
+      "pdfPage": 113,
+      "printedPage": 115,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 77,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 5491
+    },
+    {
+      "pdfPage": 115,
+      "printedPage": 116,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 70,
+      "textLines": 63,
+      "diagrams": 2,
+      "textCharacters": 3363
+    },
+    {
+      "pdfPage": 116,
+      "printedPage": 117,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 78,
+      "textLines": 73,
+      "diagrams": 1,
+      "textCharacters": 5169
+    },
+    {
+      "pdfPage": 117,
+      "printedPage": 118,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 63,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 3013
+    },
+    {
+      "pdfPage": 118,
+      "printedPage": 119,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 70,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3467
+    },
+    {
+      "pdfPage": 119,
+      "printedPage": 120,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 60,
+      "textLines": 54,
+      "diagrams": 2,
+      "textCharacters": 2587
+    },
+    {
+      "pdfPage": 120,
+      "printedPage": 121,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 72,
+      "textLines": 67,
+      "diagrams": 1,
+      "textCharacters": 3829
+    },
+    {
+      "pdfPage": 121,
+      "printedPage": 122,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 76,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3370
+    },
+    {
+      "pdfPage": 122,
+      "printedPage": 123,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 78,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 4038
+    },
+    {
+      "pdfPage": 123,
+      "printedPage": 124,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 73,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3715
+    },
+    {
+      "pdfPage": 124,
+      "printedPage": 125,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 65,
+      "textLines": 59,
+      "diagrams": 2,
+      "textCharacters": 2918
+    },
+    {
+      "pdfPage": 125,
+      "printedPage": 126,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 70,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3160
+    },
+    {
+      "pdfPage": 126,
+      "printedPage": 127,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 66,
+      "textLines": 63,
+      "diagrams": 2,
+      "textCharacters": 4826
+    },
+    {
+      "pdfPage": 127,
+      "printedPage": 128,
+      "chapter": "04-superioridad-local",
+      "ocrLines": 11,
+      "textLines": 9,
+      "diagrams": 0,
+      "textCharacters": 338
+    },
+    {
+      "pdfPage": 129,
+      "printedPage": 130,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 46,
+      "textLines": 33,
+      "diagrams": 8,
+      "textCharacters": 759
+    },
+    {
+      "pdfPage": 130,
+      "printedPage": 131,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 78,
+      "textLines": 71,
+      "diagrams": 1,
+      "textCharacters": 3095
+    },
+    {
+      "pdfPage": 131,
+      "printedPage": 132,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 73,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 4433
+    },
+    {
+      "pdfPage": 132,
+      "printedPage": 133,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 59,
+      "textLines": 53,
+      "diagrams": 3,
+      "textCharacters": 2308
+    },
+    {
+      "pdfPage": 133,
+      "printedPage": 134,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 52,
+      "textLines": 48,
+      "diagrams": 3,
+      "textCharacters": 1903
+    },
+    {
+      "pdfPage": 134,
+      "printedPage": 135,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 70,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 2896
+    },
+    {
+      "pdfPage": 135,
+      "printedPage": 136,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 73,
+      "textLines": 70,
+      "diagrams": 1,
+      "textCharacters": 3751
+    },
+    {
+      "pdfPage": 136,
+      "printedPage": 137,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 62,
+      "textLines": 53,
+      "diagrams": 3,
+      "textCharacters": 3331
+    },
+    {
+      "pdfPage": 137,
+      "printedPage": 138,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 71,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3877
+    },
+    {
+      "pdfPage": 138,
+      "printedPage": 139,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 83,
+      "textLines": 79,
+      "diagrams": 1,
+      "textCharacters": 5070
+    },
+    {
+      "pdfPage": 139,
+      "printedPage": 140,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 69,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3203
+    },
+    {
+      "pdfPage": 140,
+      "printedPage": 141,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 75,
+      "textLines": 73,
+      "diagrams": 1,
+      "textCharacters": 3523
+    },
+    {
+      "pdfPage": 141,
+      "printedPage": 142,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 70,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4060
+    },
+    {
+      "pdfPage": 142,
+      "printedPage": 143,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 76,
+      "textLines": 72,
+      "diagrams": 1,
+      "textCharacters": 4373
+    },
+    {
+      "pdfPage": 143,
+      "printedPage": 144,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 71,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 2864
+    },
+    {
+      "pdfPage": 144,
+      "printedPage": 145,
+      "chapter": "05-encontrar-el-punto-debil",
+      "ocrLines": 47,
+      "textLines": 45,
+      "diagrams": 1,
+      "textCharacters": 2950
+    },
+    {
+      "pdfPage": 146,
+      "printedPage": 148,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 24,
+      "textLines": 13,
+      "diagrams": 4,
+      "textCharacters": 519
+    },
+    {
+      "pdfPage": 147,
+      "printedPage": 149,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 73,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 2813
+    },
+    {
+      "pdfPage": 148,
+      "printedPage": 150,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 68,
+      "textLines": 63,
+      "diagrams": 2,
+      "textCharacters": 3577
+    },
+    {
+      "pdfPage": 149,
+      "printedPage": 151,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 72,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3440
+    },
+    {
+      "pdfPage": 150,
+      "printedPage": 152,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 58,
+      "textLines": 55,
+      "diagrams": 2,
+      "textCharacters": 3877
+    },
+    {
+      "pdfPage": 151,
+      "printedPage": 153,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 80,
+      "textLines": 75,
+      "diagrams": 1,
+      "textCharacters": 3301
+    },
+    {
+      "pdfPage": 152,
+      "printedPage": 154,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 54,
+      "textLines": 45,
+      "diagrams": 4,
+      "textCharacters": 2939
+    },
+    {
+      "pdfPage": 153,
+      "printedPage": 155,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 72,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 4268
+    },
+    {
+      "pdfPage": 154,
+      "printedPage": 156,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 81,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 4010
+    },
+    {
+      "pdfPage": 155,
+      "printedPage": 157,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 74,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3202
+    },
+    {
+      "pdfPage": 156,
+      "printedPage": 158,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 71,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 2824
+    },
+    {
+      "pdfPage": 157,
+      "printedPage": 159,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 80,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 4282
+    },
+    {
+      "pdfPage": 158,
+      "printedPage": 160,
+      "chapter": "06-romper-el-punto-fuerte",
+      "ocrLines": 41,
+      "textLines": 38,
+      "diagrams": 1,
+      "textCharacters": 2095
+    },
+    {
+      "pdfPage": 160,
+      "printedPage": 162,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 45,
+      "textLines": 31,
+      "diagrams": 8,
+      "textCharacters": 716
+    },
+    {
+      "pdfPage": 161,
+      "printedPage": 163,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 80,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 3619
+    },
+    {
+      "pdfPage": 162,
+      "printedPage": 164,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 67,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3381
+    },
+    {
+      "pdfPage": 163,
+      "printedPage": 165,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 81,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 3677
+    },
+    {
+      "pdfPage": 164,
+      "printedPage": 166,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 71,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3595
+    },
+    {
+      "pdfPage": 165,
+      "printedPage": 167,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 76,
+      "textLines": 73,
+      "diagrams": 1,
+      "textCharacters": 4024
+    },
+    {
+      "pdfPage": 166,
+      "printedPage": 168,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 63,
+      "textLines": 57,
+      "diagrams": 3,
+      "textCharacters": 3006
+    },
+    {
+      "pdfPage": 167,
+      "printedPage": 169,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 71,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3764
+    },
+    {
+      "pdfPage": 168,
+      "printedPage": 170,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 80,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 3484
+    },
+    {
+      "pdfPage": 169,
+      "printedPage": 171,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 73,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 2988
+    },
+    {
+      "pdfPage": 170,
+      "printedPage": 172,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 79,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 4044
+    },
+    {
+      "pdfPage": 171,
+      "printedPage": 173,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 72,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4054
+    },
+    {
+      "pdfPage": 172,
+      "printedPage": 174,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 68,
+      "textLines": 63,
+      "diagrams": 2,
+      "textCharacters": 2977
+    },
+    {
+      "pdfPage": 173,
+      "printedPage": 175,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 70,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3089
+    },
+    {
+      "pdfPage": 174,
+      "printedPage": 176,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 79,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 3424
+    },
+    {
+      "pdfPage": 175,
+      "printedPage": 177,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 68,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3040
+    },
+    {
+      "pdfPage": 176,
+      "printedPage": 178,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 68,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3700
+    },
+    {
+      "pdfPage": 177,
+      "printedPage": 179,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 58,
+      "textLines": 56,
+      "diagrams": 3,
+      "textCharacters": 3239
+    },
+    {
+      "pdfPage": 178,
+      "printedPage": 180,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 68,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 2750
+    },
+    {
+      "pdfPage": 179,
+      "printedPage": 181,
+      "chapter": "07-transformar-y-reorganizar",
+      "ocrLines": 38,
+      "textLines": 37,
+      "diagrams": 0,
+      "textCharacters": 1697
+    },
+    {
+      "pdfPage": 181,
+      "printedPage": 184,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 78,
+      "textLines": 72,
+      "diagrams": 1,
+      "textCharacters": 3300
+    },
+    {
+      "pdfPage": 182,
+      "printedPage": 185,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 75,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 4151
+    },
+    {
+      "pdfPage": 183,
+      "printedPage": 186,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 61,
+      "textLines": 54,
+      "diagrams": 3,
+      "textCharacters": 3303
+    },
+    {
+      "pdfPage": 184,
+      "printedPage": 187,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 68,
+      "textLines": 61,
+      "diagrams": 2,
+      "textCharacters": 4086
+    },
+    {
+      "pdfPage": 185,
+      "printedPage": 188,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 72,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3122
+    },
+    {
+      "pdfPage": 186,
+      "printedPage": 189,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 76,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 3787
+    },
+    {
+      "pdfPage": 187,
+      "printedPage": 190,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 78,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 4118
+    },
+    {
+      "pdfPage": 188,
+      "printedPage": 191,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 80,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 4767
+    },
+    {
+      "pdfPage": 189,
+      "printedPage": 192,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 76,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 5107
+    },
+    {
+      "pdfPage": 190,
+      "printedPage": 193,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 74,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 3690
+    },
+    {
+      "pdfPage": 191,
+      "printedPage": 194,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 64,
+      "textLines": 57,
+      "diagrams": 3,
+      "textCharacters": 4412
+    },
+    {
+      "pdfPage": 192,
+      "printedPage": 195,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 78,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 6214
+    },
+    {
+      "pdfPage": 193,
+      "printedPage": 196,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 82,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 5496
+    },
+    {
+      "pdfPage": 194,
+      "printedPage": 197,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 81,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 5423
+    },
+    {
+      "pdfPage": 195,
+      "printedPage": 198,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 72,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 6399
+    },
+    {
+      "pdfPage": 196,
+      "printedPage": 199,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 81,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 5874
+    },
+    {
+      "pdfPage": 197,
+      "printedPage": 200,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 72,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 5197
+    },
+    {
+      "pdfPage": 198,
+      "printedPage": 201,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 72,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 8448
+    },
+    {
+      "pdfPage": 199,
+      "printedPage": 202,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 74,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 6370
+    },
+    {
+      "pdfPage": 200,
+      "printedPage": 203,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 63,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 3835
+    },
+    {
+      "pdfPage": 201,
+      "printedPage": 204,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 67,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 5883
+    },
+    {
+      "pdfPage": 202,
+      "printedPage": 205,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 75,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 5633
+    },
+    {
+      "pdfPage": 203,
+      "printedPage": 206,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 77,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 4839
+    },
+    {
+      "pdfPage": 204,
+      "printedPage": 207,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 63,
+      "textLines": 54,
+      "diagrams": 3,
+      "textCharacters": 4437
+    },
+    {
+      "pdfPage": 205,
+      "printedPage": 208,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 65,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 4869
+    },
+    {
+      "pdfPage": 206,
+      "printedPage": 209,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 79,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 5197
+    },
+    {
+      "pdfPage": 207,
+      "printedPage": 210,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 74,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 3714
+    },
+    {
+      "pdfPage": 208,
+      "printedPage": 211,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 73,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4244
+    },
+    {
+      "pdfPage": 209,
+      "printedPage": 212,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 66,
+      "textLines": 57,
+      "diagrams": 3,
+      "textCharacters": 4114
+    },
+    {
+      "pdfPage": 210,
+      "printedPage": 213,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 77,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 5076
+    },
+    {
+      "pdfPage": 211,
+      "printedPage": 214,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 81,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 5798
+    },
+    {
+      "pdfPage": 212,
+      "printedPage": 215,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 75,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4893
+    },
+    {
+      "pdfPage": 213,
+      "printedPage": 216,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 59,
+      "textLines": 56,
+      "diagrams": 3,
+      "textCharacters": 3530
+    },
+    {
+      "pdfPage": 214,
+      "printedPage": 217,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 77,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 4302
+    },
+    {
+      "pdfPage": 215,
+      "printedPage": 218,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 71,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 4802
+    },
+    {
+      "pdfPage": 216,
+      "printedPage": 219,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 83,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 6193
+    },
+    {
+      "pdfPage": 217,
+      "printedPage": 220,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 64,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 5550
+    },
+    {
+      "pdfPage": 218,
+      "printedPage": 221,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 83,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 5408
+    },
+    {
+      "pdfPage": 219,
+      "printedPage": 222,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 74,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 2946
+    },
+    {
+      "pdfPage": 220,
+      "printedPage": 223,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 71,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3229
+    },
+    {
+      "pdfPage": 221,
+      "printedPage": 224,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 62,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 3219
+    },
+    {
+      "pdfPage": 222,
+      "printedPage": 225,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 65,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 2525
+    },
+    {
+      "pdfPage": 223,
+      "printedPage": 226,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 67,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3481
+    },
+    {
+      "pdfPage": 224,
+      "printedPage": 227,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 75,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 4333
+    },
+    {
+      "pdfPage": 225,
+      "printedPage": 228,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 72,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 4410
+    },
+    {
+      "pdfPage": 226,
+      "printedPage": 229,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 67,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 2608
+    },
+    {
+      "pdfPage": 227,
+      "printedPage": 230,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 82,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 5311
+    },
+    {
+      "pdfPage": 228,
+      "printedPage": 231,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 65,
+      "textLines": 57,
+      "diagrams": 3,
+      "textCharacters": 3438
+    },
+    {
+      "pdfPage": 229,
+      "printedPage": 232,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 73,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 4381
+    },
+    {
+      "pdfPage": 230,
+      "printedPage": 233,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 73,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 3750
+    },
+    {
+      "pdfPage": 231,
+      "printedPage": 234,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 74,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 5196
+    },
+    {
+      "pdfPage": 232,
+      "printedPage": 235,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 70,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 4654
+    },
+    {
+      "pdfPage": 233,
+      "printedPage": 236,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 75,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 7672
+    },
+    {
+      "pdfPage": 234,
+      "printedPage": 237,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 59,
+      "textLines": 54,
+      "diagrams": 3,
+      "textCharacters": 4382
+    },
+    {
+      "pdfPage": 235,
+      "printedPage": 238,
+      "chapter": "08-doce-grandes-partidas",
+      "ocrLines": 50,
+      "textLines": 47,
+      "diagrams": 1,
+      "textCharacters": 3244
+    },
+    {
+      "pdfPage": 236,
+      "printedPage": 239,
+      "chapter": "09-ejercicios",
+      "ocrLines": 35,
+      "textLines": 35,
+      "diagrams": 0,
+      "textCharacters": 2996
+    },
+    {
+      "pdfPage": 237,
+      "printedPage": 240,
+      "chapter": "09-ejercicios",
+      "ocrLines": 22,
+      "textLines": 17,
+      "diagrams": 2,
+      "textCharacters": 1287
+    },
+    {
+      "pdfPage": 238,
+      "printedPage": 241,
+      "chapter": "09-ejercicios",
+      "ocrLines": 16,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 101
+    },
+    {
+      "pdfPage": 239,
+      "printedPage": 242,
+      "chapter": "09-ejercicios",
+      "ocrLines": 18,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 106
+    },
+    {
+      "pdfPage": 240,
+      "printedPage": 243,
+      "chapter": "09-ejercicios",
+      "ocrLines": 23,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 105
+    },
+    {
+      "pdfPage": 241,
+      "printedPage": 244,
+      "chapter": "09-ejercicios",
+      "ocrLines": 20,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 106
+    },
+    {
+      "pdfPage": 242,
+      "printedPage": 245,
+      "chapter": "09-ejercicios",
+      "ocrLines": 17,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 106
+    },
+    {
+      "pdfPage": 243,
+      "printedPage": 246,
+      "chapter": "09-ejercicios",
+      "ocrLines": 19,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 106
+    },
+    {
+      "pdfPage": 244,
+      "printedPage": 247,
+      "chapter": "09-ejercicios",
+      "ocrLines": 22,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 107
+    },
+    {
+      "pdfPage": 245,
+      "printedPage": 248,
+      "chapter": "09-ejercicios",
+      "ocrLines": 24,
+      "textLines": 6,
+      "diagrams": 6,
+      "textCharacters": 105
+    },
+    {
+      "pdfPage": 246,
+      "printedPage": 249,
+      "chapter": "10-soluciones",
+      "ocrLines": 56,
+      "textLines": 54,
+      "diagrams": 1,
+      "textCharacters": 3059
+    },
+    {
+      "pdfPage": 247,
+      "printedPage": 250,
+      "chapter": "10-soluciones",
+      "ocrLines": 77,
+      "textLines": 75,
+      "diagrams": 1,
+      "textCharacters": 5330
+    },
+    {
+      "pdfPage": 248,
+      "printedPage": 251,
+      "chapter": "10-soluciones",
+      "ocrLines": 78,
+      "textLines": 74,
+      "diagrams": 1,
+      "textCharacters": 5089
+    },
+    {
+      "pdfPage": 249,
+      "printedPage": 252,
+      "chapter": "10-soluciones",
+      "ocrLines": 83,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 5141
+    },
+    {
+      "pdfPage": 250,
+      "printedPage": 253,
+      "chapter": "10-soluciones",
+      "ocrLines": 70,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 4232
+    },
+    {
+      "pdfPage": 251,
+      "printedPage": 254,
+      "chapter": "10-soluciones",
+      "ocrLines": 69,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3382
+    },
+    {
+      "pdfPage": 252,
+      "printedPage": 255,
+      "chapter": "10-soluciones",
+      "ocrLines": 58,
+      "textLines": 54,
+      "diagrams": 3,
+      "textCharacters": 4065
+    },
+    {
+      "pdfPage": 253,
+      "printedPage": 256,
+      "chapter": "10-soluciones",
+      "ocrLines": 87,
+      "textLines": 85,
+      "diagrams": 0,
+      "textCharacters": 5575
+    },
+    {
+      "pdfPage": 254,
+      "printedPage": 257,
+      "chapter": "10-soluciones",
+      "ocrLines": 72,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 5849
+    },
+    {
+      "pdfPage": 255,
+      "printedPage": 258,
+      "chapter": "10-soluciones",
+      "ocrLines": 79,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 5824
+    },
+    {
+      "pdfPage": 256,
+      "printedPage": 259,
+      "chapter": "10-soluciones",
+      "ocrLines": 73,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 4344
+    },
+    {
+      "pdfPage": 257,
+      "printedPage": 260,
+      "chapter": "10-soluciones",
+      "ocrLines": 79,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 6543
+    },
+    {
+      "pdfPage": 258,
+      "printedPage": 261,
+      "chapter": "10-soluciones",
+      "ocrLines": 67,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 3489
+    },
+    {
+      "pdfPage": 259,
+      "printedPage": 262,
+      "chapter": "10-soluciones",
+      "ocrLines": 81,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 4040
+    },
+    {
+      "pdfPage": 260,
+      "printedPage": 263,
+      "chapter": "10-soluciones",
+      "ocrLines": 81,
+      "textLines": 78,
+      "diagrams": 1,
+      "textCharacters": 5232
+    },
+    {
+      "pdfPage": 261,
+      "printedPage": 264,
+      "chapter": "10-soluciones",
+      "ocrLines": 83,
+      "textLines": 79,
+      "diagrams": 1,
+      "textCharacters": 5990
+    },
+    {
+      "pdfPage": 262,
+      "printedPage": 265,
+      "chapter": "10-soluciones",
+      "ocrLines": 69,
+      "textLines": 66,
+      "diagrams": 2,
+      "textCharacters": 5403
+    },
+    {
+      "pdfPage": 263,
+      "printedPage": 266,
+      "chapter": "10-soluciones",
+      "ocrLines": 69,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 3686
+    },
+    {
+      "pdfPage": 264,
+      "printedPage": 267,
+      "chapter": "10-soluciones",
+      "ocrLines": 70,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 4868
+    },
+    {
+      "pdfPage": 265,
+      "printedPage": 268,
+      "chapter": "10-soluciones",
+      "ocrLines": 72,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4346
+    },
+    {
+      "pdfPage": 266,
+      "printedPage": 269,
+      "chapter": "10-soluciones",
+      "ocrLines": 71,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 5342
+    },
+    {
+      "pdfPage": 267,
+      "printedPage": 270,
+      "chapter": "10-soluciones",
+      "ocrLines": 84,
+      "textLines": 79,
+      "diagrams": 1,
+      "textCharacters": 4603
+    },
+    {
+      "pdfPage": 268,
+      "printedPage": 271,
+      "chapter": "10-soluciones",
+      "ocrLines": 82,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 6124
+    },
+    {
+      "pdfPage": 269,
+      "printedPage": 272,
+      "chapter": "10-soluciones",
+      "ocrLines": 79,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 5350
+    },
+    {
+      "pdfPage": 270,
+      "printedPage": 273,
+      "chapter": "10-soluciones",
+      "ocrLines": 72,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 5152
+    },
+    {
+      "pdfPage": 271,
+      "printedPage": 274,
+      "chapter": "10-soluciones",
+      "ocrLines": 73,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4589
+    },
+    {
+      "pdfPage": 272,
+      "printedPage": 275,
+      "chapter": "10-soluciones",
+      "ocrLines": 79,
+      "textLines": 76,
+      "diagrams": 1,
+      "textCharacters": 5559
+    },
+    {
+      "pdfPage": 273,
+      "printedPage": 276,
+      "chapter": "10-soluciones",
+      "ocrLines": 74,
+      "textLines": 67,
+      "diagrams": 2,
+      "textCharacters": 4400
+    },
+    {
+      "pdfPage": 274,
+      "printedPage": 277,
+      "chapter": "10-soluciones",
+      "ocrLines": 79,
+      "textLines": 75,
+      "diagrams": 1,
+      "textCharacters": 3154
+    },
+    {
+      "pdfPage": 275,
+      "printedPage": 278,
+      "chapter": "10-soluciones",
+      "ocrLines": 64,
+      "textLines": 58,
+      "diagrams": 3,
+      "textCharacters": 5194
+    },
+    {
+      "pdfPage": 276,
+      "printedPage": 279,
+      "chapter": "10-soluciones",
+      "ocrLines": 78,
+      "textLines": 73,
+      "diagrams": 1,
+      "textCharacters": 4257
+    },
+    {
+      "pdfPage": 277,
+      "printedPage": 280,
+      "chapter": "10-soluciones",
+      "ocrLines": 54,
+      "textLines": 43,
+      "diagrams": 4,
+      "textCharacters": 2377
+    },
+    {
+      "pdfPage": 278,
+      "printedPage": 281,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 69,
+      "textLines": 62,
+      "diagrams": 2,
+      "textCharacters": 4068
+    },
+    {
+      "pdfPage": 279,
+      "printedPage": 282,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 71,
+      "textLines": 65,
+      "diagrams": 2,
+      "textCharacters": 5181
+    },
+    {
+      "pdfPage": 280,
+      "printedPage": 283,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 55,
+      "textLines": 46,
+      "diagrams": 4,
+      "textCharacters": 6256
+    },
+    {
+      "pdfPage": 281,
+      "printedPage": 284,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 81,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 8211
+    },
+    {
+      "pdfPage": 282,
+      "printedPage": 285,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 64,
+      "textLines": 55,
+      "diagrams": 3,
+      "textCharacters": 5270
+    },
+    {
+      "pdfPage": 283,
+      "printedPage": 286,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 78,
+      "textLines": 70,
+      "diagrams": 2,
+      "textCharacters": 4184
+    },
+    {
+      "pdfPage": 284,
+      "printedPage": 287,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 81,
+      "textLines": 69,
+      "diagrams": 2,
+      "textCharacters": 7563
+    },
+    {
+      "pdfPage": 285,
+      "printedPage": 288,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 74,
+      "textLines": 68,
+      "diagrams": 2,
+      "textCharacters": 6747
+    },
+    {
+      "pdfPage": 286,
+      "printedPage": 289,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 79,
+      "textLines": 77,
+      "diagrams": 1,
+      "textCharacters": 8495
+    },
+    {
+      "pdfPage": 287,
+      "printedPage": 290,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 72,
+      "textLines": 64,
+      "diagrams": 2,
+      "textCharacters": 5666
+    },
+    {
+      "pdfPage": 288,
+      "printedPage": 291,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 70,
+      "textLines": 56,
+      "diagrams": 3,
+      "textCharacters": 4189
+    },
+    {
+      "pdfPage": 289,
+      "printedPage": 292,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 69,
+      "textLines": 57,
+      "diagrams": 3,
+      "textCharacters": 4952
+    },
+    {
+      "pdfPage": 290,
+      "printedPage": 293,
+      "chapter": "11-tres-partidas-extra",
+      "ocrLines": 56,
+      "textLines": 46,
+      "diagrams": 2,
+      "textCharacters": 4113
+    }
+  ],
+  "excludedPdfPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    26,
+    53,
+    83,
+    101,
+    114,
+    128,
+    145,
+    159,
+    180,
+    291
+  ],
+  "excludedReasons": {
+    "preliminaries": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "chapterTitlePages": [
+      26,
+      53,
+      83,
+      101,
+      128,
+      145,
+      159,
+      180
+    ],
+    "duplicate": [
+      114
+    ],
+    "index": [
+      291
+    ]
+  },
+  "sourceNotationImages": 3652,
+  "sourceNotationUses": 3652
+}

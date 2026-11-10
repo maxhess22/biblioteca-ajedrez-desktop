@@ -1,0 +1,190 @@
+{
+  "groups": {
+    "palette": {
+      "label": "Paleta de la interfaz",
+      "attribute": "data-palette",
+      "query": "paleta",
+      "default": "cielo",
+      "options": [
+        {
+          "value": "cielo",
+          "label": "Celeste · original"
+        },
+        {
+          "value": "monocromo",
+          "label": "Neutro"
+        },
+        {
+          "value": "salvia",
+          "label": "Verde salvia"
+        },
+        {
+          "value": "pizarra",
+          "label": "Azul pizarra"
+        },
+        {
+          "value": "arena",
+          "label": "Arena"
+        },
+        {
+          "value": "tinta",
+          "label": "Tinta"
+        },
+        {
+          "value": "lavanda",
+          "label": "Lavanda"
+        },
+        {
+          "value": "arcilla",
+          "label": "Arcilla"
+        }
+      ]
+    },
+    "typography": {
+      "label": "Tipografía de la interfaz",
+      "attribute": "data-typography",
+      "query": "tipografia",
+      "default": "editorial",
+      "options": [
+        {
+          "value": "sistema",
+          "label": "Sistema · clara y funcional"
+        },
+        {
+          "value": "humanista",
+          "label": "Humanista · trazo suave"
+        },
+        {
+          "value": "editorial",
+          "label": "Editorial · original"
+        }
+      ]
+    },
+    "radius": {
+      "label": "Redondeado",
+      "attribute": "data-radius",
+      "query": "bordes",
+      "default": "suave",
+      "options": [
+        {
+          "value": "recto",
+          "label": "Discreto"
+        },
+        {
+          "value": "suave",
+          "label": "Suave"
+        },
+        {
+          "value": "redondo",
+          "label": "Redondeado"
+        }
+      ]
+    },
+    "density": {
+      "label": "Espaciado de los componentes",
+      "attribute": "data-density",
+      "query": "espaciado",
+      "default": "comoda",
+      "options": [
+        {
+          "value": "comoda",
+          "label": "Cómodo"
+        },
+        {
+          "value": "compacta",
+          "label": "Compacto"
+        }
+      ]
+    }
+  },
+  "presets": [
+    {
+      "id": "original",
+      "label": "Original",
+      "description": "Papel cálido y títulos clásicos.",
+      "values": {
+        "palette": "cielo",
+        "typography": "editorial",
+        "radius": "suave",
+        "density": "comoda"
+      }
+    },
+    {
+      "id": "neutro",
+      "label": "Neutro funcional",
+      "description": "Blanco y grafito, compacto y directo.",
+      "values": {
+        "palette": "monocromo",
+        "typography": "sistema",
+        "radius": "suave",
+        "density": "compacta"
+      }
+    },
+    {
+      "id": "salvia",
+      "label": "Salvia suave",
+      "description": "Fondos verdes suaves y formas amables.",
+      "values": {
+        "palette": "salvia",
+        "typography": "humanista",
+        "radius": "redondo",
+        "density": "comoda"
+      }
+    },
+    {
+      "id": "pizarra",
+      "label": "Pizarra discreta",
+      "description": "Grises azulados y líneas precisas.",
+      "values": {
+        "palette": "pizarra",
+        "typography": "sistema",
+        "radius": "recto",
+        "density": "compacta"
+      }
+    },
+    {
+      "id": "arena",
+      "label": "Arena editorial",
+      "description": "Marfil, oliva y títulos de estilo editorial.",
+      "values": {
+        "palette": "arena",
+        "typography": "editorial",
+        "radius": "suave",
+        "density": "comoda"
+      }
+    },
+    {
+      "id": "tinta",
+      "label": "Tinta azul",
+      "description": "Superficies frías y azul intenso para las acciones.",
+      "values": {
+        "palette": "tinta",
+        "typography": "sistema",
+        "radius": "suave",
+        "density": "compacta"
+      }
+    },
+    {
+      "id": "lavanda",
+      "label": "Lavanda",
+      "description": "Fondos violetas suaves y tipografía humanista.",
+      "values": {
+        "palette": "lavanda",
+        "typography": "humanista",
+        "radius": "redondo",
+        "density": "comoda"
+      }
+    },
+    {
+      "id": "arcilla",
+      "label": "Arcilla",
+      "description": "Tonos cálidos y acentos terracota.",
+      "values": {
+        "palette": "arcilla",
+        "typography": "sistema",
+        "radius": "suave",
+        "density": "compacta"
+      }
+    }
+  ]
+}

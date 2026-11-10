@@ -1,0 +1,138 @@
+[
+  {
+    "id": "color",
+    "title": "Color de casilla",
+    "description": "Reconoce el color de una casilla sin mirar el tablero.",
+    "href": "/entrenamiento/vision/color/",
+    "symbol": "board",
+    "group": "vision"
+  },
+  {
+    "id": "mismo-color",
+    "title": "Mismo color",
+    "description": "Compara el color de dos casillas.",
+    "href": "/entrenamiento/vision/mismo-color/",
+    "symbol": "board",
+    "group": "vision"
+  },
+  {
+    "id": "misma-diagonal",
+    "title": "Misma diagonal",
+    "description": "Reconoce las líneas por las que se mueve el alfil.",
+    "href": "/entrenamiento/vision/misma-diagonal/",
+    "symbol": "target",
+    "group": "vision"
+  },
+  {
+    "id": "casilla-simetrica",
+    "title": "Casilla simétrica",
+    "description": "Encuentra la casilla opuesta respecto al centro.",
+    "href": "/entrenamiento/vision/casilla-simetrica/",
+    "symbol": "board",
+    "group": "vision"
+  },
+  {
+    "id": "caballo-en-2",
+    "title": "Ruta de caballo en 2",
+    "description": "Conecta dos casillas en dos saltos de caballo.",
+    "href": "/entrenamiento/vision/caballo-en-2/",
+    "symbol": "target",
+    "group": "vision"
+  },
+  {
+    "id": "casilla-encuentro",
+    "title": "Casilla de encuentro",
+    "description": "Encuentra dónde pueden coincidir dos piezas.",
+    "href": "/entrenamiento/vision/casilla-encuentro/",
+    "symbol": "target",
+    "group": "vision"
+  },
+  {
+    "id": "tactica-a-ciegas",
+    "title": "Táctica a ciegas",
+    "description": "Resuelve posiciones con una lista de piezas, sin tablero.",
+    "href": "/entrenamiento/vision/tactica-a-ciegas/",
+    "symbol": "swords",
+    "group": "vision"
+  },
+  {
+    "id": "lichess-themes",
+    "title": "Táctica por temas",
+    "description": "Todo el catálogo de temas tácticos de Lichess, con dificultad a elección.",
+    "href": "/entrenamiento/temas/",
+    "symbol": "swords",
+    "group": "tactica"
+  },
+  {
+    "id": "peones-basico",
+    "title": "Peones · Básico",
+    "description": "120 problemas y 2 recorridos de partidas",
+    "href": "/entrenamiento/guias/peones-basico/",
+    "symbol": "book",
+    "group": "basico"
+  },
+  {
+    "id": "caballo-basico",
+    "title": "Caballo · Básico",
+    "description": "120 problemas y 1 recorridos de partidas",
+    "href": "/entrenamiento/guias/caballo-basico/",
+    "symbol": "book",
+    "group": "basico"
+  },
+  {
+    "id": "alfil-basico",
+    "title": "Alfil · Básico",
+    "description": "120 problemas y 1 recorridos de partidas",
+    "href": "/entrenamiento/guias/alfil-basico/",
+    "symbol": "book",
+    "group": "basico"
+  },
+  {
+    "id": "torre-basico",
+    "title": "Torre · Básico",
+    "description": "120 problemas y 2 recorridos de partidas",
+    "href": "/entrenamiento/guias/torre-basico/",
+    "symbol": "rook",
+    "group": "basico"
+  },
+  {
+    "id": "ataque-al-enroque",
+    "title": "Ataque al enroque",
+    "description": "10 mates en dificultad ascendente.",
+    "href": "/entrenamiento/guias/ataque-al-enroque/",
+    "symbol": "swords",
+    "group": "intermedio"
+  },
+  {
+    "id": "peones-intermedio",
+    "title": "Peones · Intermedio",
+    "description": "3 recorridos de partidas",
+    "href": "/entrenamiento/guias/peones-intermedio/",
+    "symbol": "book",
+    "group": "intermedio"
+  },
+  {
+    "id": "caballo-intermedio",
+    "title": "Caballo · Intermedio",
+    "description": "2 recorridos de partidas",
+    "href": "/entrenamiento/guias/caballo-intermedio/",
+    "symbol": "book",
+    "group": "intermedio"
+  },
+  {
+    "id": "alfil-intermedio",
+    "title": "Alfil · Intermedio",
+    "description": "3 recorridos de partidas",
+    "href": "/entrenamiento/guias/alfil-intermedio/",
+    "symbol": "book",
+    "group": "intermedio"
+  },
+  {
+    "id": "torre-intermedio",
+    "title": "Torre · Intermedio",
+    "description": "3 recorridos de partidas",
+    "href": "/entrenamiento/guias/torre-intermedio/",
+    "symbol": "rook",
+    "group": "intermedio"
+  }
+]

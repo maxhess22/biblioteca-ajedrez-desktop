@@ -1,0 +1,51 @@
+name: Compilar App de Escritorio (Desktop)
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'v*'
+
+concurrency:
+  group: desktop-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-desktop:
+    permissions:
+      contents: write
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup Rust estable
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Compilar App con Tauri
+        uses: tauri-apps/tauri-action@v0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tagName: v__VERSION__
+          releaseName: 'Biblioteca Ajedrez v__VERSION__'
+          releaseBody: 'Instalador oficial de Biblioteca Ajedrez para macOS (.dmg).'
+          releaseDraft: false
+          prerelease: false
+
+      - name: Guardar instalador como artefacto descargable
+        uses: actions/upload-artifact@v4
+        with:
+          name: Biblioteca-Ajedrez-macOS
+          path: |
+            src-tauri/target/release/bundle/dmg/*.dmg
+            src-tauri/target/release/bundle/macos/*.app
+          if-no-files-found: warn
