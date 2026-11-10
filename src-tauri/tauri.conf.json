@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "biblioteca-ajedrez",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "identifier": "cl.biblioteca.ajedrez",
   "build": {
     "frontendDist": "../dist"
@@ -24,6 +24,7 @@
   },
   "bundle": {
     "active": true,
+    "createUpdaterArtifacts": true,
     "targets": "all",
     "icon": [
       "icons/32x32.png",
