@@ -1,6 +1,6 @@
 {
   "name": "biblioteca-ajedrez-desktop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "App de escritorio de Biblioteca Ajedrez construida con Tauri v2 y Rust",
   "scripts": {
     "tauri": "tauri",
